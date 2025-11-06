@@ -1,0 +1,17 @@
+com\user\library\model\Book.class
+com\user\library\LibraryApplication.class
+com\user\library\repository\LoanRepository.class
+com\user\library\service\BorrowerService.class
+com\user\library\controller\BookController.class
+com\user\library\controller\BorrowerController.class
+com\user\library\repository\BorrowerRepository.class
+com\user\library\controller\LoanController.class
+com\user\library\model\Borrower.class
+com\user\library\service\BookService.class
+com\user\library\repository\BookRepository.class
+com\user\library\model\Author.class
+com\user\library\model\Loan.class
+com\user\library\controller\AuthorController.class
+com\user\library\repository\AuthorRepository.class
+com\user\library\service\LoanService.class
+com\user\library\service\AuthorService.class
